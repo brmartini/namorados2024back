@@ -1,0 +1,15 @@
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\bin\Debug\net8.0\PedidoNamoro.exe
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\bin\Debug\net8.0\PedidoNamoro.deps.json
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\bin\Debug\net8.0\PedidoNamoro.runtimeconfig.json
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\bin\Debug\net8.0\PedidoNamoro.dll
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\bin\Debug\net8.0\PedidoNamoro.pdb
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.AssemblyInfoInputs.cache
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.AssemblyInfo.cs
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.csproj.CoreCompileInputs.cache
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.sourcelink.json
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.dll
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\refint\PedidoNamoro.dll
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.pdb
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\PedidoNamoro.genruntimeconfig.cache
+D:\RepositoriosOOF\namorados2024back\PedidoNamoro\PedidoNamoro\obj\Debug\net8.0\ref\PedidoNamoro.dll
